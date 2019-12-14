@@ -1,6 +1,8 @@
 # Mini Report-GMM
 
-*贾丁 jiading.biz@outlook.com*
+*jiading.biz@outlook.com*
+
+**如果这篇markdown文档显示不正确，请见README.pdf**
 
 ## 文件清单
 
